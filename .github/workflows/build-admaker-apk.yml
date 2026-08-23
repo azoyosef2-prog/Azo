@@ -48,3 +48,4 @@ jobs:
           name: ADMAKER_AI_APK
           path: ADMAKER_AI.apk
           retention-days: 30
+# text-to-video rebuild
