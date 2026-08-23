@@ -5,6 +5,10 @@ on:
     paths:
       - 'admaker-apk/**'
       - '.github/workflows/build-admaker-apk.yml'
+  pull_request:
+    paths:
+      - 'admaker-apk/**'
+      - '.github/workflows/build-admaker-apk.yml'
   workflow_dispatch:
 
 jobs:
